@@ -6,7 +6,7 @@ from suds.client import Client
 app = Flask(__name__)
 
 #Needed information for Zarinpal.com
-MERCHANT = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"  #Required
+MERCHANT = "fc9510ec-d226-4c1f-b0c1-c3f6210d2f01"  #Required
 ZARINPAL = "https://www.zarinpal.com/pg/services/WebGate/wsdl"  #Required
 
 amount = 1000 #Tomans #Required
