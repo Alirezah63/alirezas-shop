@@ -1,20 +1,2 @@
-required python:
-python 3
-
-packages you need to install:
-flask -> pip install flask / pkg install flask (terminal/powershell)
-suds -> pip install suds / pkg install suds (terminal/powershell)
-
-web page structure:
-html 5
-
-web page style:
-css 3
-
-google fonts:
-roboto, sans-serif
-
-iconscout icons:
-line
-thin line
-solid
+flask
+suds
