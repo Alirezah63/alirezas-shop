@@ -6,4 +6,4 @@ from server import app
 
 # Starting the app with all the files
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
